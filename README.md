@@ -1,5 +1,5 @@
 <div class="top" style="display:flex; justify-content: center; align-items:center; flex-direction:column; width: 100% height:500px">
-    <img src="background.gif" height="100%" style="align:center;">
+    <img src="https://github.com/souravrax/souravrax/blob/master/background.gif" height="100%" style="align:center;">
     <h1>Hi, I am <strong>Sourav Rakshit</strong> 👋 aka <a href="https://souravrakshit.codes">souravrax</a></h1>
     <p>I'm a Full Stack Developer, Competitive Programmer 🚀 from India. Currently I'm perusing B.Tech in Computer Science major in <a href="http://cgec.org.in">Cooch Behar Govt. Engineering College</a></p>
 </div>
