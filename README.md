@@ -1,71 +1,36 @@
-<div class="top" style="display:flex; justify-content: center; align-items:center; flex-direction:column; width: 100% height:500px">
-    <img src="https://github.com/souravrax/souravrax/blob/master/background.gif" height="100%" style="align:center;">
-    <h1>Hi, I am <strong>Sourav Rakshit</strong> 👋 aka <a href="https://souravrakshit.codes">souravrax</a></h1>
-    <p>I'm a Full Stack Developer, Competitive Programmer 🚀 from India. Currently I'm perusing B.Tech in Computer Science major in <a href="http://cgec.org.in">Cooch Behar Govt. Engineering College</a></p>
-</div>
+## Hi there 👋 I am [Sourav Rakshit](https://souravrakshit.me)
 
-<div class="gradient-border" id="social-links">
-    <a href="https://twitter.com/imsouravrakshit">
-    <img align="left" alt="Sourav's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/souravrax/">
-    <img align="left" alt="Sourav's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a href="https://t.me/rx">
-    <img align="left" alt="Sourav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-    </a>
-    <a href="https://www.instagram.com/souravrax/">
-    <img align="left" alt="Sourav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    </a>
-    <a href="https://leetcode.com/imrax/">
-    <img align="left" alt="Sourav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-    </a>
-    <a href="https://www.codechef.com/users/souravrax">
-    <img align="left" alt="Sourav's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-    </a>
-    <a href="https://hackerrank.com/imsouravrakshit">
-    <img align="left" alt="Sourav's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-    </a>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-souravrax-blue?style=flat-pill&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souravrax/)](https://www.linkedin.com/in/souravrax/)
+[![Gmail Badge](https://img.shields.io/badge/-rakshitsourav3@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:mxr180061@utdallas.edu)](mailto:rakshitsourav3@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-souravrax-black?style=flat-pill&logo=github&logoColor=white&link=https://github.com/manparvesh/)](https://github.com/souravrax/)
+[![Leetcode Badge](https://img.shields.io/badge/-imrax98-F89F1B?style=flat-pill&logo=leetcode&logoColor=white&link=https://leetcode.com/imrax98/)](https://leetcode.com/imrax98/)
+[![binarysearch](https://binarysearch.com/api/shields/mangal)](https://binarysearch.com/@/mangal)
+[![Leetcode Badge](https://img.shields.io/badge/-souravrakshit.me-black?style=flat-pill&logo=google-chrome&logoColor=white&link=https://manparvesh.com/)](https://souravrakshit.me/)
 
-<br />
-<br />
+<h3>Technologies I like</h3>
+<p>
+  <img alt="C" src="https://img.shields.io/badge/-blue?style=flat-pill&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/++-darkblue?style=flat-pill&logo=C&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-orange?style=flat-pill&logo=java&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000?style=flat-pill&logo=javascript&logo_color=000000" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-pill&logo=Python&logoColor=white" />
 
-  <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" /> -->
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-pill&logo=Linux&logoColor=black" />
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0174cd?style=flat-pill&logo=windows&logoColor=white" />
 
-### Talking about Personal Stuffs
+  <img alt="Github Actions" src="https://raster.shields.io/badge/-Github Actions-181717?style=flat-pill&logo=github&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-181717?style=flat-pill&logo=netlify&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-darkorange?style=flat-pill&logo=firebase&logoColor=white" />
 
--   🔑 I'm a Competitive Programmer, and also a Developer
--   👨🏽‍💻 I like to do web development using all sorts of tools out there
--   🌱 I’m currently learning Cloud and also trying my hands on AI
--   🤔 I'm am very enthusiast about learning new algorithms
--   💬 Ask me about anything, I am happy to help
--   ⚡️ Fun-Fact: I like to write codes in short and simple way, so that everyone can understand
--   📫 How to reach me: rakshitsourav3@gmail.com;
--   📝[Resume](https://drive.google.com/file/d/1CWvif6NvFr2yD3tJCn-v5vVzd7TMyL7V/view?usp=sharing)
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-pill&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-rgb(15 181 84)?style=flat-pill&logo=mongodb&logoColor=white" />
 
-### Languages and Tools
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-pill&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-pill&logo=GitHub&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-5DDDFF?style=flat-pill&logo=react&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-0066B8?style=flat-pill&logo=visual-studio-code" />
+  <img alt="Vim" src="https://img.shields.io/badge/-Vim-019331?style=flat-pill&logo=vim&logoColor=white" />
+</p>
 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br>
-<br>
-
----
-
-![Sourav's Github Status](https://github-readme-stats.vercel.app/api?username=souravrax&show_icons=true&hide_border=true)
+![Sourav's Github Analysis](https://github-readme-stats.vercel.app/api?username=souravrax&hide_title=true&show_owner=true&show_icons=true&hide_border=true&theme=dark)
