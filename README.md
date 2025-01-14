@@ -1,7 +1,7 @@
 ## Hi there 👋 I am [Sourav Rakshit](https://souravrakshit.me)
 <img src="https://komarev.com/ghpvc/?username=souravrax" />
 
-[![Website](https://img.shields.io/badge/-souravrakshit.me-black?style=flat-pill&logo=google-chrome&logoColor=white&link=https://souravrakshit.me/)](https://souravrakshit.me/)
+[![Website](https://img.shields.io/badge/-souravrakshit.me-black?style=flat-pill&logo=google-chrome&logoColor=white&link=https://souravrax.com/)](https://souravrax.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-souravrax-blue?style=flat-pill&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souravrax/)](https://www.linkedin.com/in/souravrax/)
 [![Gmail Badge](https://img.shields.io/badge/-rakshitsourav3@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:mxr180061@utdallas.edu)](mailto:rakshitsourav3@gmail.com)
