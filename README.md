@@ -1,7 +1,7 @@
 ## Hi there 👋 I am [Sourav Rakshit](https://souravrakshit.me)
 <img src="https://komarev.com/ghpvc/?username=souravrax" />
 
-[![Website](https://img.shields.io/badge/-souravrakshit.me-black?style=flat-pill&logo=google-chrome&logoColor=white&link=https://souravrax.com/)](https://souravrax.com/)
+[![Website](https://img.shields.io/badge/-souravrax.com-black?style=flat-pill&logo=google-chrome&logoColor=white&link=https://souravrax.com/)](https://souravrax.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-souravrax-blue?style=flat-pill&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souravrax/)](https://www.linkedin.com/in/souravrax/)
 [![Gmail Badge](https://img.shields.io/badge/-rakshitsourav3@gmail.com-red?style=flat-pill&logo=Gmail&logoColor=white&link=mailto:mxr180061@utdallas.edu)](mailto:rakshitsourav3@gmail.com)
@@ -11,7 +11,7 @@
 [![binarysearch](https://binarysearch.com/api/shields/mangal)](https://binarysearch.com/@/mangal)
 
 
-<h3>Technologies I like</h3>
+<h3>Technologies I have worked with</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-blue?style=flat-pill&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/++-darkblue?style=flat-pill&logo=C&logoColor=white" />
